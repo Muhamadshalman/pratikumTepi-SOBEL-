@@ -1,0 +1,2 @@
+# pratikumTepi-SOBEL-
+pratikumdeteksitepi
